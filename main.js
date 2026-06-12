@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/g/18QyssG7NM/");
+    window.open("https://www.facebook.com/profile.php?id=61584495795792");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://omg10.com/4/10490713", "_blank");
+    window.open("https://s.shopee.co.id/8V5E7wpasy", "_blank");
 });
 
 
